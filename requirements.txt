@@ -1,3 +1,5 @@
+jupyter
+kaggle
 pandas
 numpy
 tqdm
